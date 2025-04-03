@@ -11,7 +11,8 @@ Includes interactive charts, pivot tables, and slicers to analyze trends in cust
 ## Product & Category Insights: 
 Displays top-selling products, category distribution, and sales by store location to help businesses make data-driven inventory and marketing decisions.
 
-## Customer Behavior Analysis: Shows order patterns based on weekdays, time of day, and product preferences, helping optimize sales strategies.
+## Customer Behavior Analysis: 
+Shows order patterns based on weekdays, time of day, and product preferences, helping optimize sales strategies.
 
 ## Technologies Used:
 Microsoft Excel (Pivot Tables, Charts, Slicers, Conditional Formatting)

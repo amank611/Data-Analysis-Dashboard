@@ -1,4 +1,4 @@
-##Coffee Shop Sales Dashboard ☕📊
+## Coffee Shop Sales Dashboard ☕📊
 #Overview
 This interactive Coffee Shop Sales Dashboard is designed in Excel to analyze and visualize sales performance, customer footfall, and product demand. It provides key business insights to enhance decision-making and optimize sales strategies.
 
